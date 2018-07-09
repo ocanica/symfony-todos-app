@@ -1,8 +1,10 @@
 {% extends 'base.html.twig' %}
-{% block title %} List {% endblock %}
+{% block title %} Edit Task {% endblock %}
 {% block body %}
 
-{{ test }}
-{{ id }}
+    <h2 class="mt-4">Edit Task</h2>
+    {{ form_start(form) }}
+    {{ form_widget(form) }}
+    {{ form_end(form) }}
 
 {% endblock %}

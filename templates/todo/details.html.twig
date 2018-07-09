@@ -1,8 +1,6 @@
 {% extends 'base.html.twig' %}
-{% block title %} List {% endblock %}
+{% block title %} {{ todo.name }} {% endblock %}
 {% block body %}
-
-{{ test }}
-{{ id }}
-
+    <h2 class="mt-4">{{ todo.name }}</h2>
+    <p> {{ todo.description }} </p>
 {% endblock %}
