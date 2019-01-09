@@ -9,7 +9,7 @@ http://praxis.ocanica.com/todo-app/
 Simply clone or fork (to contribute).
 
 ### Built With
- - PHP
+ - Symfony PHP Framework
  - MySQL
  - Doctrine ORM
  - JavaScript (ES6)
