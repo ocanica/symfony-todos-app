@@ -1,6 +1,6 @@
 # Symfony Todo-app
 
-A simple todo CRUD application built using the (PHP) Symfony Framework.
+A simple todo CRUD application built using the Symfony Framework.
 
 ### Demo
 http://praxis.ocanica.com/todo-app/
